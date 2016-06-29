@@ -97,7 +97,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Dev",
+      "name": "Developer",
       "level": "Master",
       "keywords": [
         "HTML5",
@@ -121,6 +121,7 @@
         "NodeJS",
         "MongoDB / noSQL",
         "PHP",
+        "ASP",
         "MySQL",
         "WordPress",
         "Drupal", 
@@ -128,7 +129,11 @@
         "Photoshop",
         "LightRoom",
         "Illustrator",
-        "InDesign"
+        "InDesign",
+        ".Net",
+        "C#",
+        "VisualBasic",
+        "Visual Studio"
       ]
     }
   ],
