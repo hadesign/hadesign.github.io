@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Daniel Carvalho",
+    "label": "Front-End | Designer | Analista",
+    "picture": "dist/images/profilePhoto.jpg",
+    "email": "daniel.ddsc@gmail.com",
+    "phone": "(+55) 41 9266 3524",
+    "website": "http://hadesign.github.io",
+    "summary": "Pelos últimos 9 anos continuamente me desafiei a aprender novas linguagens, frameworks e metodologias. Minhas linguagens principais sempre foram HTML, CSS e JavaScript mas também já trabalhei como desenvolvedor PHP FullStack criando soluções CMS. Tenho interesse em desenvolvimento JavaScript fullstack e experimentando com Angular, React, Meteor e Polymer. Tenho experiência utilizando build tools como Grunt e Gulp e linguagens de modelo como Handlebars e experiência com Git via Github.",
+    "location": {
+      "address": "",
+      "postalCode": "83025-120",
+      "city": "São José dos Pinhais",
+      "countryCode": "BR",
+      "region": "PR"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "hadesign",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Lado A Comunicação",
+      "position": "Diagramador/Web Designer",
+      "website": "https://revistaladoa.com.br",
+      "startDate": "2010-07",
+      "endDate": "2015-02",
+      "summary": "A mais antiga revista de nicho brasileira. Revista que circula na Região Sul, premiada e editada em Curitiba - PR com conteúdo de moda, comportamento, balada, música, entretenimento, cultura e atitude.",
+      "highlights": [
+        "Diagramação de mídias impressas",
+        "Criação de artes gráficas para distribuição impressa e digital",
+        "Design para web FullStack com Drupal, melhorias de UX, UI",
+        "SEO, SEM, otimizando e gerando aumento de interação em redes sociais em 70% e visitas no site em 130%",
+        "Solução de e-commmerce começando do 0 à 90 pedidos ao mês",
+        "Criação de conteúdo",
+        "Assistente de produção"
+      ]
+    },
+    {
+      "company": "A Telecon Sistemas de Informação",
+      "position": "Programador Junior",
+      "website": "",
+      "startDate": "2006-08",
+      "endDate": "2009-03",
+      "summary": "Líder em gestão e software para supermercados, PDV, BackOffice, ERP",
+      "highlights": [
+        "Desenvolvimento de sistema de PDV (ponto-de-venda) e BackOffice para comércio de grandes volumes focado em supermercados e postos",
+        "Implantação, suporte técnico, atendimento ao cliente, treinamento presencial, service desk",
+        "Idealização e desenvolvimento solo de sistema de tickets internos, causando aumento de produtividade e diminuindo o tempo gasto em suporte",
+        "Desenvolvimento do website da empresa com área para treinamento de clientes",
+        "Criação de conteúdo educacional, apresentações e jornal de notícias do ramo de supermercados"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Faculdade de Artes do Paraná FAP",
+      "area": "Artes Visuais",
+      "studyType": "Licenciatura",
+      "startDate": "2013-04",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidade Tuiuti do Paraná UTP",
+      "area": "Design",
+      "studyType": "Bacharel",
+      "startDate": "2009-02",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Colégio Luterano Concórdia",
+      "area": "Informática | Gestão comercial",
+      "studyType": "Cursos Técnicos",
+      "startDate": "2005-02",
+      "endDate": "2006-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Programa MiniEmpresa Junior Achievement",
+      "date": "2006",
+      "awarder": "JA Brasil",
+      "summary": "Finalista 3° Lugar"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Dev",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6",
+        "jQuery",
+        "MVW, MVC, MVVM, MVP",
+        "AngularJS",
+        "ReactJS",
+        "Meteor",
+        "Handlebars",
+        "Git",
+        "SASS / LESS",
+        "Grunt / Gulp",
+        "Babel",
+        "Semantic UI",
+        "Twitter Bootstrap",
+        "ZURB Foundation",
+        "Material Design Lite",
+        "SVG",
+        "NodeJS",
+        "MongoDB / noSQL",
+        "PHP",
+        "MySQL",
+        "WordPress",
+        "Drupal", 
+        "WP Commerce",
+        "Photoshop",
+        "LightRoom",
+        "Illustrator",
+        "InDesign"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português pt-br",
+      "fluency": "Língua Nativa"
+    },
+    {
+      "language": "Inglês en-us",
+      "fluency": "Fluente"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Favoritos",
+      "keywords": [
+        "Unicórnios",
+        "Música",
+        "Games",
+        "Livros",
+        "Cores iridescentes e holográficas",
+        "Dançar"
+      ]
+    },
+    {
+      "name": "Características",
+      "keywords": [
+        "Personalidade ENFP",
+        "Antenado",
+        "Pró-ativo",
+        "Entendidx dos assuntos",
+        "Queer"
+      ]
+    }
+  ],
+  "references": []
+}
